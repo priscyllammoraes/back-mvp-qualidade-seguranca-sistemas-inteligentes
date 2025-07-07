@@ -16,6 +16,9 @@ venv/
 *.cache/
 .cache/
 
+tests/database/
+
+
 # Arquivos de build
 build/
 dist/

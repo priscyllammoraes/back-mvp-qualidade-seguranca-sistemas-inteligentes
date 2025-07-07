@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtualenvs e variáveis de ambiente
+venv/
+.env
+*.env
+
+# Arquivos temporários e logs
+*.log
+*.tmp
+*.bak
+*.cache/
+.cache/
+
+# Arquivos de build
+build/
+dist/
+*.egg-info/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Vídeo de apresentação
+*.mp4
